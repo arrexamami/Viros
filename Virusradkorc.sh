@@ -103,7 +103,7 @@ echo " "
 echo " "
 }
 menu(){
-echo -e "$red <-$ylo Tack Lorix $red ->$rset"
+echo -e "$red <-$ylo radkor cyb $red ->$rset"
 echo " "
 echo " "
 echo -e "$red />$cyan [\e[94m1\e[96m]\e[96mVirus show"
@@ -111,7 +111,7 @@ echo -e "$red />$cyan [\e[94m2\e[96m]\e[96mVirus web & malware"
 echo -e "$red />$cyan [\e[94m5\e[96m]\e[95mExit"
 echo " "
 echo " "
-echo -e "$red <-$ylo Tack Lorix $red ->$rset"
+echo -e "$red <-$ylo radkor $red ->$rset"
 echo " "
 echo -ne "\e[92m %> chois your number \e[92m: "
 read optnz
@@ -193,7 +193,7 @@ echo -e "     \e[91m  links virus show :
 \e[91m/>\e[92m  https://liveweave.com/JUcnd7
 
 
-                            \e[93m (- Tack Lorix  -)
+                            \e[93m (- radkor cyb  -)
 "
 echo
 echo -ne "\e[92m%> Type 8 fore exit : "
@@ -288,7 +288,7 @@ echo -e "     \e[91m  Links web virusy & links download malware :
 
 
 
-                               \e[93m (- Tack Lorix -)
+                               \e[93m (-radkor cyb -)
 
 "
 echo
