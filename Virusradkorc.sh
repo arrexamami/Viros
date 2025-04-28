@@ -50,10 +50,10 @@ echo -e '\e[91m
 
 '
 echo " " 
-echo -e "$red ~~> $grn my channel Telegram = @Filtering_Hacking $red<~~$rset"
+echo -e "$red ~~> $grn my channel Telegram = @hadi_radkor $red<~~$rset"
 echo 
 # Functions
-echo -e "$red ~~>$grn my id Telegram = @tacklorix $red<~~$rset"
+echo -e "$red ~~>$grn my id Telegram = @radkor $red<~~$rset"
 echo " "
 echo " "
 }
@@ -95,10 +95,10 @@ echo -e '\e[91m
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠛⠛⠿⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠿⠟⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 '
 echo " "
-echo -e "$red ~~>$grn my channel Telegram = @Filtering_Hacking  $red<~~$rset"
+echo -e "$red ~~>$grn my channel Telegram = @hadi_radkor $red<~~$rset"
 echo
 # Functions
-echo -e "$red ~~>$grn my id Telegram = @tacklorix $red<~~$rset"
+echo -e "$red ~~>$grn my id Telegram = @hadi radkor $red<~~$rset"
 echo " "
 echo " "
 }
